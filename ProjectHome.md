@@ -1,0 +1,1 @@
+This tool is used for bypassing spam filters using homoglyphs. It was tested against apache spam assassin. The tool can be used for pentesting when social engineering is allowed.
